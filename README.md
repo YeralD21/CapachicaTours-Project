@@ -1,94 +1,69 @@
-# CapachicaTours-Project
----
+#SAMAMSAMSMA 🖥️💻
 
-## Telo dedico Samuuuuuuuuuuuuu¡¡¡¡¡¡ 🖥️💻
-
-### 1. Cuando el código funciona a la primera
-
-![Codigo funciona](https://media.giphy.com/media/jt8ALf2eq8Vus/giphy.gif)
-
-> "Cuando escribes tu código y todo funciona a la primera... definitivamente no es magia."
+Bienvenidos al repositorio de **Memes de Programación**. Aquí encontrarás los mejores memes sobre el mundo de la programación, porque a veces, lo único que nos queda es reír para no llorar. 😂
 
 ---
 
-### 2. Cuando arreglas un bug... pero aparece otro
+### 1. Cuando encuentras un bug en el código que escribiste hace 2 semanas 🐛
 
-![Bug tras bug](https://media.giphy.com/media/7J35f5sfO7mRM/giphy.gif)
-
-> "Arreglé un bug, pero no me esperaba que otros 20 salieran a la luz."
+![Cuando encuentras un bug](https://i.pinimg.com/originals/a5/cb/a5/a5cba525c0a2447f2132893c4a3da8cc.jpg)
 
 ---
 
-### 3. "No sé cómo funciona, pero está funcionando"
+### 2. ¿Por qué siempre funciona en mi máquina? 🖥️🔧
 
-![Codigo no entiendo](https://media.giphy.com/media/9VxbktyJ8mAOC/giphy.gif)
-
-> "Cuando el código finalmente hace lo que quieres, pero ni tú entiendes por qué."
+![Por qué siempre funciona en mi máquina](https://i.pinimg.com/originals/6e/31/02/6e31023f57b1ed4089671e94d61c50ea.jpg)
 
 ---
 
-### 4. Cuando el código tiene 0 errores pero... ¡es demasiado lento!
+### 3. Ese momento cuando el código compila a la primera 🥳
 
-![Codigo lento](https://media.giphy.com/media/3o6ZtliHhr2keP5Ktc/giphy.gif)
-
-> "¡El código no tiene errores, pero su rendimiento es como una tortuga!"
+![Código compilando a la primera](https://i.pinimg.com/originals/58/a5/da/58a5da29cc9be5577b7a495e05952d35.jpg)
 
 ---
 
-### 5. El clásico momento de depuración
+### 4. Cuando te piden entregar el proyecto el mismo día que lo comienzas ⏳
 
-![Depuracion](https://media.giphy.com/media/l3V0syN8xw6hgmg5q/giphy.gif)
-
-> "Estás depurando... y en algún momento te preguntas si el error está en el código o en tu vida."
+![Entrega el proyecto en un día](https://i.pinimg.com/originals/1d/73/75/1d7375062742b34a09a7d59c8e0606ad.jpg)
 
 ---
 
-### 6. Cuando un compañero te dice que el error es tu culpa
+### 5. "Solo un cambio más" y 5 horas después... ⏰
 
-![Culpa](https://media.giphy.com/media/RlrEVLh8PCYuo/giphy.gif)
-
-> "¡Claro! Si algo va mal, seguro es culpa de quien escribió el código... siempre."
+![Solo un cambio más](https://i.pinimg.com/originals/99/eb/fe/99ebfe547370ca88101755c93e74c97c.jpg)
 
 ---
 
-### 7. Cuando intentas hacer algo en producción sin probarlo
+### 6. Cuando usas un `console.log` para depurar y encuentras un error épico 🧑‍💻
 
-![Sin probar](https://media.giphy.com/media/3o6ZsYbgr7fNVvQc1S/giphy.gif)
-
-> "Decidir hacer algo en producción sin probarlo antes: es una jugada arriesgada."
+![Console.log](https://i.pinimg.com/originals/0d/34/0f/0d340f9a5fa589a2f334515dcf38e91d.jpg)
 
 ---
 
-### 8. Cuando revisas el código después de un mes
+### 7. Cuando tu compañero de trabajo te dice "¿Pero por qué no lo hiciste así?" 🤔
 
-![Codigo despues de un mes](https://media.giphy.com/media/8ptPQzjrhRHm6/giphy.gif)
-
-> "¿Qué estaba pensando cuando escribí esto?"
+![¿Por qué no lo hiciste así?](https://i.pinimg.com/originals/7d/d5/df/7dd5dfb285b00f2b902b4b833d227b6c.jpg)
 
 ---
 
-### 9. Cuando tu compilador te da un mensaje de error críptico
+### 8. El código más limpio es el que no escribes 🤐
 
-![Error críptico](https://media.giphy.com/media/l1J9G2jzAZF6uBX8U/giphy.gif)
-
-> "Compilador: ‘Error fatal en la línea 42’… ¿Y eso qué significa?"
+![Código limpio](https://i.pinimg.com/originals/67/7f/07/677f073b5f227b8244c491b7d63e57fe.jpg)
 
 ---
 
-### 10. Cuando te dices a ti mismo que ya no vas a programar más... pero sigues programando
+### 9. Cuando el cliente te pide algo imposible y no sabes cómo decirle que no 😅
 
-![Nunca dejar de programar](https://media.giphy.com/media/m4OS4r8kqJQti/giphy.gif)
-
-> "Me voy a tomar un descanso de la programación... pero sólo una línea más."
+![Cliente pide imposible](https://i.pinimg.com/originals/14/d5/23/14d523f3c8102c4b69d7b6787026be01.jpg)
 
 ---
 
-## ¡Recuerda!
+### 10. Cuando finalmente entiendes el error de tu código después de horas de debugging 🤯
 
-La programación es como un buen chiste: siempre te sorprende, a veces no entiendes qué pasó, pero al final siempre vale la pena.
+![Ahorra tiempo](https://i.pinimg.com/originals/0e/d3/f4/0ed3f408f1f83f846f477bb62a7e82a9.jpg)
 
 ---
 
-¡No olvides reírte un poco mientras resuelves esos bugs!
+¡Disfruta de los memes y sigue programando con buena onda! 😎
 
-🎉👨‍💻👩‍💻
+> "Si el código no funciona, es porque hay algo mal con él" - Cualquier programador experimentado
